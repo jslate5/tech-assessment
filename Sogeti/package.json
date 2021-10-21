@@ -1,0 +1,21 @@
+{
+  "name": "solgeti",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --testTimeout=10000 --detectOpenHandles"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.1",
+    "sqlite3": "^5.0.2"
+  },
+  "devDependencies": {
+    "chance": "^1.1.8",
+    "jest": "^27.2.5",
+    "supertest": "^6.1.6"
+  }
+}

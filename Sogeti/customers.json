@@ -1,0 +1,41 @@
+[
+    {
+        "firstName": "Carol",
+        "lastName": "Danvers",
+        "age": 33,
+        "address":
+        {
+            "streetAddress": "417 5th Avenue Apt 10B",
+            "city": "New York",
+            "state": "NY",
+            "postalCode": "10016"
+        },
+        "phoneNumber": "2125551234"
+    },
+    {
+        "firstName": "Tony",
+        "lastName": "Stark",
+        "age": 48,
+        "address":
+        {
+            "streetAddress": "890 Fifth Avenue",
+            "city": "New York",
+            "state": "NY",
+            "postalCode": "10021"
+        },
+        "phoneNumber": "2125554567"
+    },
+    {
+        "firstName": "Steve",
+        "lastName": "Rogers",
+        "age": 93,
+        "address":
+        {
+            "streetAddress": "890 Fifth Avenue",
+            "city": "New York",
+            "state": "NY",
+            "postalCode": "10021"
+        },
+        "phoneNumber": "6781367092"
+    }
+]
